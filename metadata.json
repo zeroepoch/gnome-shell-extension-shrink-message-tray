@@ -1,0 +1,6 @@
+{
+    "shell-version": ["3.14"],
+    "uuid": "shrink-message-tray@zeroepoch.com",
+    "name": "Shrink message tray",
+    "description": "Reduces the height of the message tray"
+}
