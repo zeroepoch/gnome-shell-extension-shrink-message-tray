@@ -4,5 +4,5 @@
     "name": "Shrink message tray",
     "description": "Reduces the height of the message tray",
     "url": "https://github.com/zeroepoch/gnome-shell-extension-shrink-message-tray",
-    "version": 1
+    "version": 2
 }
